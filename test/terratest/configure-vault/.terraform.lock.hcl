@@ -2,21 +2,21 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/hashicorp/vault" {
-  version     = "3.8.1"
+  version     = "3.10.0"
   constraints = ">= 3.4.1"
   hashes = [
-    "h1:MD71uC9ZD29Y88lRPC2WrNl+qoJeZn3dgMzngSn134Q=",
-    "zh:020f7a4d53d0fe6739ca98db88f6ca119d7a8d2821a818e6f0e3253063fa70e1",
-    "zh:3315ced4e21d83dc9027f10c7776f7189138a20a68cadf4e2b2572a7c3e14a0d",
-    "zh:3adcb3f09ba5c7408ad84dcb178fc2e888e6df06ed00b093f7ac1324d705a232",
-    "zh:529b24a424f885758a334ec934023062cf9a9a94bc9a924bdba978df6212d98d",
-    "zh:5c594b1daa4761621c2b7d791a4c002b2c9389bc6796aed152e84203535343af",
-    "zh:5f5e7bae5801e1ad6096fc794f8c40652782ad10e29ddb5999bd90ea3fcc8c46",
-    "zh:76369b943889ae554f9421d8034014e52a251691ae5cdeecca761bb097c76378",
+    "h1:YXUGBw1eUrHiyM+CGuKizvJ5dDi31jOyd5CU+Crf2RA=",
+    "zh:0431abe178a3ed13bc2356f4dab4fe24fa1017a39a22ac152b47c0eafce51219",
+    "zh:0a63fbe7f64b61d6500b501ef47f423829dfc067b863609d00191e5f868a6561",
+    "zh:0f8c36d11ab842c924fd1c7e77c9748203365131dec54efc8fce7c949e0c7236",
+    "zh:4f155d155e95bb5ad11ccda05af57f2e7c6fb662853ba0b7e1b9aa4def008d8b",
+    "zh:5695e37e99a0defacd5b599281e4cd6ef5315628dbd0f48719c6cc0f0021077e",
     "zh:78d5eefdd9e494defcb3c68d282b8f96630502cac21d1ea161f53cfe9bb483b3",
-    "zh:c1461f4131994adaa2d2b4aee60ce9e78cf3876acdd740cfb35dad2befd637fc",
-    "zh:c53c031146f6fd0da773b17a7cdb415a77f9e0bfd85fa6f99e1cab9409a39c4d",
-    "zh:e65654763270cacf493cc14dd0f9bab97d58538426eeda5fe634b48b427f3612",
-    "zh:f468f1cbf6a084eb8c320b35318f4cca5a0482ddbb4a5d8c891af36eb2f6ad60",
+    "zh:8f9261a36c772a646867154ea4238d086f7cdba85287b8e3f4c694d1b0a10b8e",
+    "zh:b64ca8dccc3c88efa7e09d602ba64d0c34bb03215e3997864caede5ab17407f9",
+    "zh:c2b16dd7931a1f4e5cd9e94e3c3138075271334e8509665b6f46fe43bfe5fd09",
+    "zh:d9289291237830b2dc8cd8ef205dff6c3681d48dd613de32bd92a6b9ff433e8b",
+    "zh:e2dedb40962e1382fedfe0f44332d7dfe1c17d96cf7a9dec8b22692ca504c1aa",
+    "zh:e85b7dfd7a62c6443c22ab3824affe4f2ae9a4420a48af4c82ae79e1f6af3c93",
   ]
 }
